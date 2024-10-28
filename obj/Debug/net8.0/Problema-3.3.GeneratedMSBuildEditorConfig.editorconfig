@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Problema_3._3
+build_property.ProjectDir = C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\PRIMER CUATRIMESTRE\PROGRAMACION\LOGICA\UNIDAD 3\EJERCICIOS\Problema-3.3\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

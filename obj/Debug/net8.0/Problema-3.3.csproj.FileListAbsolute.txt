@@ -1,0 +1,14 @@
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\PRIMER CUATRIMESTRE\PROGRAMACION\LOGICA\UNIDAD 3\EJERCICIOS\Problema-3.3\bin\Debug\net8.0\Problema-3.3.exe
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\PRIMER CUATRIMESTRE\PROGRAMACION\LOGICA\UNIDAD 3\EJERCICIOS\Problema-3.3\bin\Debug\net8.0\Problema-3.3.deps.json
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\PRIMER CUATRIMESTRE\PROGRAMACION\LOGICA\UNIDAD 3\EJERCICIOS\Problema-3.3\bin\Debug\net8.0\Problema-3.3.runtimeconfig.json
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\PRIMER CUATRIMESTRE\PROGRAMACION\LOGICA\UNIDAD 3\EJERCICIOS\Problema-3.3\bin\Debug\net8.0\Problema-3.3.dll
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\PRIMER CUATRIMESTRE\PROGRAMACION\LOGICA\UNIDAD 3\EJERCICIOS\Problema-3.3\bin\Debug\net8.0\Problema-3.3.pdb
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\PRIMER CUATRIMESTRE\PROGRAMACION\LOGICA\UNIDAD 3\EJERCICIOS\Problema-3.3\obj\Debug\net8.0\Problema-3.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\PRIMER CUATRIMESTRE\PROGRAMACION\LOGICA\UNIDAD 3\EJERCICIOS\Problema-3.3\obj\Debug\net8.0\Problema-3.3.AssemblyInfoInputs.cache
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\PRIMER CUATRIMESTRE\PROGRAMACION\LOGICA\UNIDAD 3\EJERCICIOS\Problema-3.3\obj\Debug\net8.0\Problema-3.3.AssemblyInfo.cs
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\PRIMER CUATRIMESTRE\PROGRAMACION\LOGICA\UNIDAD 3\EJERCICIOS\Problema-3.3\obj\Debug\net8.0\Problema-3.3.csproj.CoreCompileInputs.cache
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\PRIMER CUATRIMESTRE\PROGRAMACION\LOGICA\UNIDAD 3\EJERCICIOS\Problema-3.3\obj\Debug\net8.0\Problema-3.3.dll
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\PRIMER CUATRIMESTRE\PROGRAMACION\LOGICA\UNIDAD 3\EJERCICIOS\Problema-3.3\obj\Debug\net8.0\refint\Problema-3.3.dll
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\PRIMER CUATRIMESTRE\PROGRAMACION\LOGICA\UNIDAD 3\EJERCICIOS\Problema-3.3\obj\Debug\net8.0\Problema-3.3.pdb
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\PRIMER CUATRIMESTRE\PROGRAMACION\LOGICA\UNIDAD 3\EJERCICIOS\Problema-3.3\obj\Debug\net8.0\Problema-3.3.genruntimeconfig.cache
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\PRIMER CUATRIMESTRE\PROGRAMACION\LOGICA\UNIDAD 3\EJERCICIOS\Problema-3.3\obj\Debug\net8.0\ref\Problema-3.3.dll

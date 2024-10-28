@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\PRIMER CUATRIMESTRE\\PROGRAMACION\\LOGICA\\UNIDAD 3\\EJERCICIOS\\Problema-3.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{726E9DD9-1807-4975-A620-E4AB47A4EBAC}|Problema-3.3.csproj|c:\\users\\syste\\onedrive\\escritorio\\facultad\\cursado\\primer cuatrimestre\\programacion\\logica\\unidad 3\\ejercicios\\problema-3.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726E9DD9-1807-4975-A620-E4AB47A4EBAC}|Problema-3.3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726E9DD9-1807-4975-A620-E4AB47A4EBAC}|Problema-3.3.csproj|c:\\users\\syste\\onedrive\\escritorio\\facultad\\cursado\\primer cuatrimestre\\programacion\\logica\\unidad 3\\ejercicios\\problema-3.3\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726E9DD9-1807-4975-A620-E4AB47A4EBAC}|Problema-3.3.csproj|solutionrelative:cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726E9DD9-1807-4975-A620-E4AB47A4EBAC}|Problema-3.3.csproj|c:\\users\\syste\\onedrive\\escritorio\\facultad\\cursado\\primer cuatrimestre\\programacion\\logica\\unidad 3\\ejercicios\\problema-3.3\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726E9DD9-1807-4975-A620-E4AB47A4EBAC}|Problema-3.3.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726E9DD9-1807-4975-A620-E4AB47A4EBAC}|Problema-3.3.csproj|c:\\users\\syste\\onedrive\\escritorio\\facultad\\cursado\\primer cuatrimestre\\programacion\\logica\\unidad 3\\ejercicios\\problema-3.3\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726E9DD9-1807-4975-A620-E4AB47A4EBAC}|Problema-3.3.csproj|solutionrelative:persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\PRIMER CUATRIMESTRE\\PROGRAMACION\\LOGICA\\UNIDAD 3\\EJERCICIOS\\Problema-3.3\\Cuenta.cs",
+              "RelativeDocumentMoniker": "Cuenta.cs",
+              "ToolTip": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\PRIMER CUATRIMESTRE\\PROGRAMACION\\LOGICA\\UNIDAD 3\\EJERCICIOS\\Problema-3.3\\Cuenta.cs",
+              "RelativeToolTip": "Cuenta.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAywCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:56:16.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\PRIMER CUATRIMESTRE\\PROGRAMACION\\LOGICA\\UNIDAD 3\\EJERCICIOS\\Problema-3.3\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente.cs",
+              "ToolTip": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\PRIMER CUATRIMESTRE\\PROGRAMACION\\LOGICA\\UNIDAD 3\\EJERCICIOS\\Problema-3.3\\Cliente.cs",
+              "RelativeToolTip": "Cliente.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:56:09.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\PRIMER CUATRIMESTRE\\PROGRAMACION\\LOGICA\\UNIDAD 3\\EJERCICIOS\\Problema-3.3\\Persona.cs",
+              "RelativeDocumentMoniker": "Persona.cs",
+              "ToolTip": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\PRIMER CUATRIMESTRE\\PROGRAMACION\\LOGICA\\UNIDAD 3\\EJERCICIOS\\Problema-3.3\\Persona.cs",
+              "RelativeToolTip": "Persona.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:56:00.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\PRIMER CUATRIMESTRE\\PROGRAMACION\\LOGICA\\UNIDAD 3\\EJERCICIOS\\Problema-3.3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\PRIMER CUATRIMESTRE\\PROGRAMACION\\LOGICA\\UNIDAD 3\\EJERCICIOS\\Problema-3.3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwDwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T20:47:52.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
